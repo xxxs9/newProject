@@ -11,6 +11,7 @@ public class BranchTest {
 	}
 	
 	public void branchMasterTest2(){
+		
 		System.out.println("master two");
 	}
 }
