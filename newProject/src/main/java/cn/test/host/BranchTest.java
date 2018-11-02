@@ -9,4 +9,8 @@ public class BranchTest {
 	public void branchMasterTest1(){
 		System.out.println("master one");
 	}
+	
+	public void branchMasterTest2(){
+		System.out.println("master two");
+	}
 }
